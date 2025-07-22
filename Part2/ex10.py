@@ -1,5 +1,6 @@
 def say_hi(name):
     return f"Hi {name}!"
+    return 
 
 print(say_hi("Ben"))
 print(say_hi("Darwin"))

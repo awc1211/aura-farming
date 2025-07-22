@@ -8,5 +8,4 @@ def randomgame():
     randomnumber = random.randint(0,100)
     print(f"{name2}, your codename is: {codename} {codeanimal}")
     print(f"Your lucky number is: {randomnumber}")
-
 randomgame()
